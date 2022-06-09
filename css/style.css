@@ -1,0 +1,13 @@
+
+p{
+	color: royalblue; background-color: pink;
+	border: 5px solid red;
+}
+
+.header {
+  padding: 60px;
+  text-align: center;
+  background: #1abc9c;
+  color: white;
+  font-size: 30px;
+}
